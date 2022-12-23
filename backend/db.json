@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "title": "Avatar 2",
+      "imageUrl": "https://pbs.twimg.com/media/FSUlqUUXMAE_Gtl?format=jpg&name=medium",
+      "year": "2022",
+      "director": "James Cameron",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "Trem Bala",
+      "imageUrl": "https://pbs.twimg.com/media/FUK0BMoVEAIHk9y?format=jpg&name=900x900",
+      "year": "2022",
+      "director": "David Leitch",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "Pinóquio",
+      "imageUrl": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/10/EN-US_Pinocchio_Alt_Vertical_27x40_RGB_PRE.jpg?ssl=1",
+      "year": "2022",
+      "director": "Guillermo Del Toro",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "imageUrl": "https://img.elo7.com.br/product/original/28A915C/big-poster-filme-top-gun-maverick-2020-lo01-tamanho-90x60-cm-top-gun.jpg",
+      "year": "2022",
+      "director": "Joseph Kosinski",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "Vingadores: Guerra Infinita",
+      "imageUrl": "https://br.web.img2.acsta.net/pictures/18/03/16/15/08/2019826.jpg",
+      "year": "2018",
+      "director": "Anthony Russo | Joe Russo",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "O jogo da imitação",
+      "imageUrl": "https://i.pinimg.com/originals/6b/c4/76/6bc476ccb3dde7d0709cdb5eec8df41c.jpg",
+      "year": "2014",
+      "director": "Morten Tyldum",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "O lobo de Wall Street",
+      "imageUrl": "https://live.staticflickr.com/5656/23763488832_3ccc0a91e1_b.jpg",
+      "year": "2014",
+      "director": "Martin Scorsese",
+      "country": "Estados Unidos"
+    },
+    {
+      "title": "A cabana",
+      "imageUrl": "https://musicart.xboxlive.com/7/92ed4200-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "year": "2017",
+      "director": "Stuart Hazeldine",
+      "country": "Estados Unidos"
+    }
+  ]
+}

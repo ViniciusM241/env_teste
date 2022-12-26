@@ -1,7 +1,7 @@
-import client from "~/boot/client";
+import { get } from '~/backend';
 
-export default async function searchMovies(search) {
-  const res = await client.get(`/movies${search ? `?_sort=${search.sort}&_order=${search.order}` : ''}`);
+export default function searchMovies(search) {
+  const res = get(search);
 
-  return res.data;
+  return res;
 }
